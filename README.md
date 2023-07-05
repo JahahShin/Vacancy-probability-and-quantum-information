@@ -1,4 +1,4 @@
-# Vacancy-probability-and-quntum-information
+# Vacancy-probability-and-quantum-information
 
 This is for UTQC(University of Toronto Quantum Computing).
 
